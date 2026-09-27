@@ -178,27 +178,28 @@ http://127.0.0.1:5000
 
 ## 📷 Project Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-(Add Screenshot Here)
-
----
-
-### Prediction Result
-
-(Add Screenshot Here)
+![LungScopeAI Home Page](screenshots/home-page.png)
 
 ---
 
-### Accuracy Graph
+### 🔍 Prediction Result
 
-(Add Screenshot Here)
+![Prediction Result](screenshots/prediction-result.png)
 
 ---
 
-### Confusion Matrix
+### 📈 Accuracy Graph
 
-(Add Screenshot Here)
+![Accuracy Graph](screenshots/accuracy-graph.png)
+
+---
+
+### 📊 Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion-matrix.png)
+
 
 ---
 
