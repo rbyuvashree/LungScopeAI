@@ -180,13 +180,13 @@ http://127.0.0.1:5000
 
 ### 🏠 Home Page
 
-![LungScopeAI Home Page](screenshots/home-page.jpg)
+![LungScopeAI Home Page](screenshots/prediction-result.jpg)
 
 ---
 
 ### 🔍 Prediction Result
 
-![Prediction Result](screenshots/prediction-result.jpg)
+![Prediction Result](screenshots/home-page.jpg)
 
 ---
 
@@ -198,7 +198,7 @@ http://127.0.0.1:5000
 
 ### 📊 Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion-matrix.png)
+![Confusion Matrix](screenshots/confusion_matrix.png)
 
 
 ---
