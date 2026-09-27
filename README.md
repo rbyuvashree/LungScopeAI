@@ -180,13 +180,13 @@ http://127.0.0.1:5000
 
 ### 🏠 Home Page
 
-![LungScopeAI Home Page](screenshots/home-page.png)
+![LungScopeAI Home Page](screenshots/home-page.jpg)
 
 ---
 
 ### 🔍 Prediction Result
 
-![Prediction Result](screenshots/prediction-result.png)
+![Prediction Result](screenshots/prediction-result.jpg)
 
 ---
 
